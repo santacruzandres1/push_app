@@ -1,5 +1,4 @@
-package com.example.push_app
-
+package com.santacruzandres.push_app
 import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity: FlutterActivity()
